@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">RSS TIN TỨC VIỆT NAM</string>
+    <string name="img">Icon Rss</string>
+    <string name="txtname">Name Rss </string>
+    <string name="cate">DANH MỤC TIN TỨC</string>
+    <string name="namecate">DANH MỤC</string>
+    <string name="ivcon">DANH MỤC</string>
+    <string name="sv">Xem Tin</string>
+    <string name="wv">Hien Thi Thong Tin</string>
+</resources>
