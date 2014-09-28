@@ -1,4 +1,2 @@
-RssAndroid
+Rss News Android
 ==========
-
-StudyAndShare
